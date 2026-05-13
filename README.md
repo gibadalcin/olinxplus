@@ -708,5 +708,5 @@ Este projeto está sob a licença MIT.
 ---
 
 <div align="center">
-<strong>OlinxRA Mobile App</strong> | Realidade Aumentada na palma da mão
+<strong>OlinxPlus Mobile App</strong> | Realidade Aumentada na palma da mão
 </div>
